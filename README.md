@@ -12,3 +12,4 @@
 ### 📫 Connect with me
 - Email: connectwithsunnyk@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sunny-kumar-6a622b3a5
+- Twitter: https://x.com/connect_sunny
