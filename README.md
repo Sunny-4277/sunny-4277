@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Sunny Kumar
 
-<!--
-**Sunny-4277/sunny-4277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Frontend Developer (Fresher)  
+💻 Skills: HTML, CSS, JavaScript, React  
+📍 Katihar, Bihar, India  
 
-Here are some ideas to get you started:
+### 🚀 What I'm doing
+- Building frontend projects
+- Learning React & UI/UX
+- Looking for internships & entry-level roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- Email: connectwithsunnyk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sunny-kumar-6a622b3a5
